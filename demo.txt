@@ -1,6 +1,14 @@
-ghghjfgohjw
+
+rtertertertghghjfgohjwretert
 sdf
 sd
 fsd
 f
 sfgdgdfg
+<<<<<<< HEAD
+
+
+satyajit acaharty
+=======
+ronak zjinerfwe
+>>>>>>> 39417b43cb198de7a11ff0d5d1cee13d3f14f1e0
